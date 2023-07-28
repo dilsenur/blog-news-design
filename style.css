@@ -1,0 +1,48 @@
+body {
+    font-family: 'Inter', sans-serif;
+    font-size: 15px;
+}
+.nav-item a,
+.col-sm p .card-text
+{
+    color: hsl(236, 13%, 42%);
+}
+
+.nav-item a:hover,
+.card-group h5:hover{
+    color:hsl(5, 85%, 63%);
+}
+
+.col-sm .btn{
+    width: 180px;
+    border-radius: 0;
+    background-color: hsl(5, 85%, 63%);
+    color: #fff;
+}
+.btn:hover {
+    background-color: hsl(240, 100%, 5%);
+    color: #fff;
+}
+
+.col-sm-4 h1{
+    color:hsl(35, 77%, 62%);
+}
+
+.col-sm-4 h4,
+hr
+{
+    color:hsl(36, 100%, 99%)
+}
+
+.col-sm-4 a{
+    color: hsl(236, 13%, 42%)
+}
+
+.col-sm-4 h4:hover{
+    color:hsl(35, 77%, 62%);
+}
+
+.card-title{
+    color: hsl(233, 16%, 79%);
+}
+
